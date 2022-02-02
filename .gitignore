@@ -1,5 +1,5 @@
 #environment
-env
+/.env
 #/src/config.ts
 # compiled output
 /dist
